@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 
 
-Widget PabelLogo() {
+Widget SampleLogo() {
   return Row(
     mainAxisAlignment: MainAxisAlignment.center,
     children: <Widget>[
@@ -13,7 +13,7 @@ Widget PabelLogo() {
         child: Container(
           child: Center(
             child: Text(
-              "Pabel",
+              "alokkumax",
               style: TextStyle(
                   fontSize: 30,
                   fontFamily: 'Pacifico',
